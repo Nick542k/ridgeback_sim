@@ -100,6 +100,4 @@ ign topic -e -t /model/ridgeback/tf -n 1
 - SLAM and Nav2 integration
 - Multi-robot support with per-model topic names
 
-## License
 
-Add a license of your choice (for example MIT).
